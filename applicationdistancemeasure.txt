@@ -1,0 +1,7 @@
+The given project is a use case of ultrasonic sensor combined with Arduino Uno, a microcontroller which provides us an audible warning using buzzer while reversing a vehicle.
+The buzzer starts beeping more and more intensely as the distance between the backside of the car and the obstacle behind it decreases from 20cm.
+
+Here you can watch the whole demonstration of the project-
+
+https://drive.google.com/file/d/1TE2X15QH0W953YQWqKtDEGfqEOOOwrse/view?usp=drivesdk
+
